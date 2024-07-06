@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+   margin: 0;
+   padding: 0;
+
+}
+
+button{
+   border: none;
+}
+#bnr-section{
+
+background-image: linear-gradient(0.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%), url("../assets/hero-bg.png");
+height: 615px;
+background-size: cover;
+background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.bnr-container{
+   width: 685px;
+  
+}
+
+.bnr-txt{
+   text-align: center;
+   color: rgb(255, 255, 255);
+   font-family: Work Sans;
+   font-size: 20px;
+   font-weight: 600;
+   line-height: 38px;
+   letter-spacing: 0%;
+   margin-bottom: 10px;
+   opacity: 0.8;
+}
+.bnr-h1{
+   color: rgb(255, 255, 255);
+   font-family: Work Sans;
+   font-size: 36px;
+   font-weight: 700;
+   line-height: 80px;
+   letter-spacing: 0%;
+   text-align: center;
+   margin-bottom: 16px;
+     
+}
+
+.bnr-text{
+   color: rgb(255, 255, 255);
+font-family: Work Sans;
+margin-bottom: 16px;
+font-size: 12px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+}
+.bnr-btn{
+   color: rgb(255, 255, 255);
+font-family: Work Sans;
+font-size: 13px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+border-radius: 8px;
+padding: 14px 18px 14px 18px;
+background: rgb(82, 195, 3);
+text-align: center;
+}
+.btn-div{
+   text-align: center;
+}
+
+
+#brands{
+   width: 884px;
+   text-align: center;
+   margin: 0 auto;
+   margin-top: 111px;
+   margin-bottom: 120px;
+   
+}
+.food-head-txt{
+   margin-bottom: 10px;
+   color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+opacity: 0.6;
+letter-spacing: 0%;
+text-align: center;
+}
+.food-head-h2{
+   color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 38px;
+}
+.food-pic{
+   display: flex;
+   justify-content: center;
+   gap: 16px;
+}
+.food-pic-btn{
+   margin-top: 21px;
+}
+.food-btn-style{
+   border-radius: 8px;
+   padding: 9px 21px 9px 21px;
+   background: rgba(82, 195, 3, 0.15);
+}
+.food-h2{
+   color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 26px;
+font-weight: 600;
+line-height: 47px;
+letter-spacing: 0%;
+text-align: center;
+margin: 16px 0;
+}
+.food-txt{
+   color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 12px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 42px;
+opacity: 0.7;
+}
+
+#social{
+   display: flex;
+   justify-content: space-between;
+
+}
+.social-bac{
+   background-image: url("./assets/foods.png");
+   width: 50%;
+   background-size: cover;
+   height: 600px;
+   background-position: center;
+
+}
+.social-txt{
+   width: 50%;
+   height: 600px;
+   text-align: center;
+}
+.social-txt-h2{
+   color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 48px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: 0%;
+text-align: center;
+   margin-top: 135px;
+   margin-bottom: 24px;
+}
+
+.social-txt-p{
+   color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 48px;
+opacity: 0.6;
+}
+.social-follow{
+   opacity: 0.7;
+   padding: 30px 0;
+   color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 32px;
+font-weight: 600;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+}
+i{
+   margin: 0 15px;
+}
+#pizza{
+   margin-top: 100px;
+}
+.simgelfood{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   align-items: center;
+}
+.btnnew{
+   margin-top: 32px;
+   text-align: center;
+}
+#about{
+   text-align: center;
+
+}
